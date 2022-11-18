@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 870d24a43d7004904adaac0bb860aa47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4926911237314876550
+    second: GPJ_2D_Platformer_Boss_0
+  - first:
+      213: 7997309339736709134
+    second: GPJ_2D_Platformer_Boss_1
+  - first:
+      213: 968141328732703236
+    second: GPJ_2D_Platformer_Boss_2
+  - first:
+      213: -4558628033970610621
+    second: GPJ_2D_Platformer_Boss_3
+  - first:
+      213: -5554212272316192399
+    second: GPJ_2D_Platformer_Boss_4
+  - first:
+      213: 7937810530506936029
+    second: GPJ_2D_Platformer_Boss_5
+  - first:
+      213: 2415983127249456546
+    second: GPJ_2D_Platformer_Boss_6
+  - first:
+      213: 4766308659724345509
+    second: GPJ_2D_Platformer_Boss_7
+  - first:
+      213: -9204151712360484357
+    second: GPJ_2D_Platformer_Boss_8
+  - first:
+      213: 7135220646224308101
+    second: GPJ_2D_Platformer_Boss_9
+  - first:
+      213: -5889934786557302455
+    second: GPJ_2D_Platformer_Boss_10
+  - first:
+      213: -2293633783098952208
+    second: GPJ_2D_Platformer_Boss_11
+  - first:
+      213: -3040558889341754669
+    second: GPJ_2D_Platformer_Boss_12
+  - first:
+      213: 7809700309233303724
+    second: GPJ_2D_Platformer_Boss_13
+  - first:
+      213: -5010969529205832694
+    second: GPJ_2D_Platformer_Boss_14
+  - first:
+      213: -7957257878767407812
+    second: GPJ_2D_Platformer_Boss_15
+  - first:
+      213: 3707525356749234340
+    second: GPJ_2D_Platformer_Boss_16
+  - first:
+      213: -9132702786856331657
+    second: GPJ_2D_Platformer_Boss_17
+  - first:
+      213: -2188531219112667221
+    second: GPJ_2D_Platformer_Boss_18
+  - first:
+      213: -8213337855459974518
+    second: GPJ_2D_Platformer_Boss_19
+  - first:
+      213: 3582495848363341252
+    second: GPJ_2D_Platformer_Boss_20
+  - first:
+      213: 9112310542084493529
+    second: GPJ_2D_Platformer_Boss_21
+  - first:
+      213: 1235356295490324428
+    second: GPJ_2D_Platformer_Boss_22
+  - first:
+      213: -3018991982935051078
+    second: GPJ_2D_Platformer_Boss_23
+  - first:
+      213: -681941236658382564
+    second: GPJ_2D_Platformer_Boss_0
+  - first:
+      213: 3321903041608583057
+    second: GPJ_2D_Platformer_Boss_1
+  - first:
+      213: -9050874691627741260
+    second: GPJ_2D_Platformer_Boss_2
+  - first:
+      213: -8802265800930106245
+    second: GPJ_2D_Platformer_Boss_3
+  - first:
+      213: -5486587311078425164
+    second: GPJ_2D_Platformer_Boss_4
+  - first:
+      213: 8938925946494281732
+    second: GPJ_2D_Platformer_Boss_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GPJ_2D_Platformer_Boss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19594fee024986f0800000000000000
+      internalID: -681941236658382564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GPJ_2D_Platformer_Boss_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1978e555735c91e20800000000000000
+      internalID: 3321903041608583057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GPJ_2D_Platformer_Boss_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf84faeb65d46280800000000000000
+      internalID: -9050874691627741260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GPJ_2D_Platformer_Boss_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74edf4f3e118d580800000000000000
+      internalID: -8802265800930106245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GPJ_2D_Platformer_Boss_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd3106e8e9bbd3b0800000000000000
+      internalID: -5486587311078425164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GPJ_2D_Platformer_Boss_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4086052b9c17d0c70800000000000000
+      internalID: 8938925946494281732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GPJ_2D_Platformer_Boss_5: 8938925946494281732
+      GPJ_2D_Platformer_Boss_4: -5486587311078425164
+      GPJ_2D_Platformer_Boss_1: 3321903041608583057
+      GPJ_2D_Platformer_Boss_3: -8802265800930106245
+      GPJ_2D_Platformer_Boss_0: -681941236658382564
+      GPJ_2D_Platformer_Boss_2: -9050874691627741260
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6130fd54-3cac-4f2e-b740-8c9540898776" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.2d-platformgame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2d-platformgame/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.2d-platformgame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.2d-platformgame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GPJ_2D_Platformer_Boss.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GPJ_2D_Platformer_Boss.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyHealthManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyHealthManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnemyPatrol.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyPatrol.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/HurtEnemyOnContact.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/HurtEnemyOnContact.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NinjaStarController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NinjaStarController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BossWall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TouchControls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlyerEnemyMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelSelectTouch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FF095D0D-03D4-40C0-AF6A-AF340BEEA99C/dc/cd143bec/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovingPlatform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TimeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyStarController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShootAtPlayerInRange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TouchControls.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Parallax.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FlyerEnemyMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LifeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelSelectManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelSelectTouch.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BossHealthManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyHealthManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NinjaStarController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HurtEnemyOnContact.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyPatrol.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BossPatrol.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BossWall.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jxXsWtwY6IKilZUp7lpt2c7Soe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/2dplatformgame.app/Contents/MacOS/2D Platformer" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2dplatformgame.app/Contents/MacOS" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6130fd54-3cac-4f2e-b740-8c9540898776" name="Default Changelist" comment="" />
+      <created>1604746924407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604746924407</updated>
+      <workItem from="1604746933678" duration="18046000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="123" width="592" height="601" key="VCS.FileHistoryDialog" timestamp="1604759060012">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="748" y="123" width="592" height="601" key="VCS.FileHistoryDialog/0.23.1440.801@0.23.1440.801" timestamp="1604759060012" />
+    <state x="14" y="53" width="721" height="735" key="find.popup" timestamp="1605007189517">
+      <screen x="0" y="23" width="1440" height="795" />
+    </state>
+    <state x="14" y="53" width="721" height="735" key="find.popup/0.23.1440.795@0.23.1440.795" timestamp="1605007189517" />
+  </component>
+</project>
