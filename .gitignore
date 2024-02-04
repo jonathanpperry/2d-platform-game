@@ -36,3 +36,5 @@ sysinfo.txt
 
 .vs/*
 Build.app
+
+*.DS_Store
